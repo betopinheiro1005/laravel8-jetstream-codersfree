@@ -1,3 +1,16 @@
+# Laravel 8 - Jetstream
+## Victor Hernan Arana Flores (Coders Free)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
+
+### Lista de aulas  
+
+Aula 24 - Laravel Jetstream  
+Aula 25 - Componentes blade (de classe)  
+Aula 26 - Componentes blade (anônimos)  
+Aula 27 - Como modificar o template padrão do Jetstream  
+Aula 28 - O que são os middlewares  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
