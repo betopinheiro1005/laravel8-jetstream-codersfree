@@ -1,9 +1,13 @@
 # Laravel 8 - Jetstream
 ## Victor Hernan Arana Flores (Coders Free)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)  
 
 Aula 24 - Laravel Jetstream  
 Aula 25 - Componentes blade (de classe)  
